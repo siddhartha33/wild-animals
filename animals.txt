@@ -3,5 +3,6 @@ lion
 
 Tiger
 leopard
+Elephant
 cheetah
 lynxes
