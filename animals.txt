@@ -7,3 +7,4 @@ Bear
 Elephant
 cheetah
 lynxes
+warthog
